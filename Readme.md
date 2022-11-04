@@ -9,11 +9,11 @@ python get-pip.py
 
 # install playwright
 
-pip install --upgrade pip
-python3 -m pip install playwright
-playwright install
-python3 -m pip install pytest
-python3 -m pip install pytest-play playwright
+- pip install --upgrade pip
+- python3 -m pip install playwright
+- playwright install
+- python3 -m pip install pytest
+- python3 -m pip install pytest-play playwright
 
 # command
 
